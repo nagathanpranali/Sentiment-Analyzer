@@ -1,6 +1,7 @@
 Sentiment Analyzer App
 
 A web application that analyzes the sentiment of text reviews using Natural Language Processing (NLP). 
+
 Check out the live website https://sentiment-analyzer-rmic.onrender.com/
 
 Features
